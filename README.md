@@ -1,1 +1,4 @@
 # Unity_Create_ScriptableObject
+ScriptableObjectを継承したクラス名のファイルを選択し、右クリックから「Create -> ScriptableObject」でアセットファイルを作成できるようにするUnity拡張。
+
+CreateAssetMenuAttribute、というものもあると後から知りましたが汎用的に使える分これもアリかと。
